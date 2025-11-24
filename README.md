@@ -24,7 +24,7 @@ Visuels stylisés (par exemple pixel art ou rendu stylisé)
 
 Clone ce dépôt :
 
-git clone https://[ton-url-repo].git
+git clone https://github.com/AlexAdowin/Endless-runner-dino-.git
 
 
 Ouvre le projet dans ton moteur de jeu (par exemple Godot version X.X ou autre selon ce que tu utilises).
